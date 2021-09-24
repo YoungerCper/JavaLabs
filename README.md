@@ -7,3 +7,11 @@
 Ссылка на профиль в CodeWars: https://www.codewars.com/users/YoungerCper
 
 Ссылка на профиль в GitHub: https://github.com/YoungerCper 
+
+---
+
+##Лабораторная работа №1
+
+Задача 1: https://www.codewars.com/kata/59377c53e66267c8f6000027
+Задача 2: https://www.codewars.com/kata/603b2bb1c7646d000f900083
+Задача 3: https://www.codewars.com/kata/523f5d21c841566fde000009
