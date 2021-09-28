@@ -3,13 +3,13 @@
 public class Movie {
 
     public final String title;
-    public final int year;
+    public final String year;
     public final int id;
 
     private double graduate = 0;
     private int countOfGraduate = 0;
 
-    public Movie(String title, int year, int id)
+    public Movie(String title, String year, int id)
     {
         this.title = title;
         this.id = id;
